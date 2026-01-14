@@ -1,0 +1,7 @@
+# data.yaml
+path: documents/AI FISH PROJECT/Fish_Pics/YOLO_Data              # root folder containing images/ and labels/
+train: YOLO_Images/YOLO_Train_Data         # folder with training images
+val: YOLO_Images/YOLO_Val_Data             # folder with validation images
+
+nc: 1                       # number of classes
+names: ["fish"]             # list of class names
